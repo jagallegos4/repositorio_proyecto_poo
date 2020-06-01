@@ -1,0 +1,5 @@
+Git. - es una herramienta que se la puede utilizar para ir guardando los cambios o 
+actualizaciones de los códigos fuente de las aplicaciones o programas que vamos se 
+crean, en otras palabras, se puede ir generando un histórico de las versiones que
+se van creando y en el caso que una versión nueva no cumpla con el desempeño para 
+el que fue desarrollado, se pueda regresar a la versión anterior.
